@@ -2,16 +2,14 @@
 
 #### Transaction Records
 
-![Transaction Records](C:\xampp\htdocs\light-bootstrap-dashboard\TransactionScreenshot.png)
+![Transaction Records](https://github.com/luffyTaro202/light-bootstrap-dashboard/blob/master/TransactionScreenshot.png)
 
 #### Office Records
 
-![Office Records](C:\xampp\htdocs\light-bootstrap-dashboard\OfficeScreenshot.png)
-
-
+![Office Records](https://github.com/luffyTaro202/light-bootstrap-dashboard/blob/master/OfficeScreenshot.png)
 
 #### Employees Records
 
-![Employee Records](C:\xampp\htdocs\light-bootstrap-dashboard\EmployeesScreenshot.png)
+![Employees Records](https://github.com/luffyTaro202/light-bootstrap-dashboard/blob/master/EmployeesScreenshot.png)
 
 https://github.com/luffyTaro202/light-bootstrap-dashboard
